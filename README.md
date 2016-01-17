@@ -9,6 +9,9 @@ Rock Paper Scissors Game using Java Sockets. Made as a group project for Network
 
 ##Usage:
 **Note: You MUST have Java Runtime Environment 8 installed!**
+
+Run server first with arguments described below, and then run the client with arguments below, pointing to the server.
+
 ###Server:
 ```
 java -jar server.jar <port>
